@@ -1,0 +1,82 @@
+
+body {
+  background-image: url('https://lh6.googleusercontent.com/proxy/BxfJ_2wTtBML2dE7s2j3JBti0_xx2f3ckQWH8RD8D0TVN_acGq-XhiqQkpDsXUgBpME_Xpal0gvq5fIy0grK9bHu3ofikn_RkKKbb4XPfIBaHdEn3BcxYqAg8AQ');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p {
+  color: black;
+}
+
+.uberheader {
+  color: black;
+  font-size: 38;
+  font-family: arial;
+  box-sizing: border-box;
+  width: 300px;
+  height: 200px;
+  padding: 40px;
+  border: 5px solid orange;
+  box-shadow: 5px 10px Gold;
+}
+
+/*wasmachtflewrap*/
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.picture-subheader {
+  color: black;
+  font-size: 14px;
+}
+
+.picture-header1 {
+  color: black;
+  font-size: 16px;
+  box-sizing: border-box;
+  width: 200px;
+  height: 80px;
+  padding: 14px;
+  border: 5px solid orange;
+}
+
+/* Redundanz*/
+.seccondheader {
+  color: rebeccapurple;
+  font-size: 38;
+  font-family: arial;
+  box-sizing: border-box;
+  width: 300px;
+  height: 100px;
+  padding: 40px;
+  border: 5px solid yellow;
+}
+
+/* Theoretisch möglich, nur nicht hier nur über extra Klasse button*/
+.button {
+  color: black;
+  padding: 10px;
+  background-color: orange;
+  border-radius: 8px;
+}
+
+.button1 {
+  color: black;
+  padding: 10px;
+  background-color: orange;
+  border-radius: 8px;
+}
+
+/*CursorVerändernMaybe*/
+.crosshair {
+  cursor: crosshair;
+}
