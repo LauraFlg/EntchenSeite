@@ -6,9 +6,8 @@ function onClick() {
   document.getElementById("likes").innerHTML = likes;
 }
 
-var likes1 = 0;
-
-function onClick() {
-  likes1 += 1;
-  document.getElementById("likes1").innerHTML = likes1;
+var likesSecond = 0;
+function onClick1() {
+  likesSecond += 1;
+  document.getElementById("likesSecond").innerHTML = likesSecond;
 }
