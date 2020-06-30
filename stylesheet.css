@@ -80,3 +80,8 @@ p {
 .crosshair {
   cursor: crosshair;
 }
+
+.footer { 
+ padding-top: 6px;
+ padding-bottom: 6px;
+} 
