@@ -1,4 +1,3 @@
-
 var likes = 0;
 
 function onClick() {
