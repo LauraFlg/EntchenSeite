@@ -1,6 +1,5 @@
-
 body {
-  background-image: url('https://lh6.googleusercontent.com/proxy/BxfJ_2wTtBML2dE7s2j3JBti0_xx2f3ckQWH8RD8D0TVN_acGq-XhiqQkpDsXUgBpME_Xpal0gvq5fIy0grK9bHu3ofikn_RkKKbb4XPfIBaHdEn3BcxYqAg8AQ');
+  background-image: url("https://lh6.googleusercontent.com/proxy/BxfJ_2wTtBML2dE7s2j3JBti0_xx2f3ckQWH8RD8D0TVN_acGq-XhiqQkpDsXUgBpME_Xpal0gvq5fIy0grK9bHu3ofikn_RkKKbb4XPfIBaHdEn3BcxYqAg8AQ");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -81,7 +80,7 @@ p {
   cursor: crosshair;
 }
 
-.footer { 
- padding-top: 6px;
- padding-bottom: 6px;
-} 
+.footer {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
