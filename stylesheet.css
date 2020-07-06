@@ -75,6 +75,13 @@ p {
   border-radius: 8px;
 }
 
+.button2 {
+    color: black;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 8px;
+}
+
 /*CursorVerändernMaybe*/
 .crosshair {
   cursor: crosshair;
